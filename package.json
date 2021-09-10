@@ -2,7 +2,8 @@
   "name": "chatroom",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kdrbek06/chat-room",
+  "homepage": "https://github.com/kdrbek06/chat-room/",
+
   "dependencies": {
     "@ant-design/icons": "^4.6.4",
     "@testing-library/jest-dom": "^5.14.1",
