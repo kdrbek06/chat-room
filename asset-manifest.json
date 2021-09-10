@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kdrbek06/chat-room/static/css/main.efeeb806.chunk.css",
+    "main.js": "/kdrbek06/chat-room/static/js/main.e7987fca.chunk.js",
+    "main.js.map": "/kdrbek06/chat-room/static/js/main.e7987fca.chunk.js.map",
+    "runtime-main.js": "/kdrbek06/chat-room/static/js/runtime-main.8e6061ad.js",
+    "runtime-main.js.map": "/kdrbek06/chat-room/static/js/runtime-main.8e6061ad.js.map",
+    "static/css/2.f83b9687.chunk.css": "/kdrbek06/chat-room/static/css/2.f83b9687.chunk.css",
+    "static/js/2.0c1db7c4.chunk.js": "/kdrbek06/chat-room/static/js/2.0c1db7c4.chunk.js",
+    "static/js/2.0c1db7c4.chunk.js.map": "/kdrbek06/chat-room/static/js/2.0c1db7c4.chunk.js.map",
+    "index.html": "/kdrbek06/chat-room/index.html",
+    "static/css/2.f83b9687.chunk.css.map": "/kdrbek06/chat-room/static/css/2.f83b9687.chunk.css.map",
+    "static/css/main.efeeb806.chunk.css.map": "/kdrbek06/chat-room/static/css/main.efeeb806.chunk.css.map",
+    "static/js/2.0c1db7c4.chunk.js.LICENSE.txt": "/kdrbek06/chat-room/static/js/2.0c1db7c4.chunk.js.LICENSE.txt",
+    "static/media/jane.8e88e51b.jpg": "/kdrbek06/chat-room/static/media/jane.8e88e51b.jpg",
+    "static/media/john.258d8dcb.jpg": "/kdrbek06/chat-room/static/media/john.258d8dcb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e6061ad.js",
+    "static/css/2.f83b9687.chunk.css",
+    "static/js/2.0c1db7c4.chunk.js",
+    "static/css/main.efeeb806.chunk.css",
+    "static/js/main.e7987fca.chunk.js"
+  ]
+}
